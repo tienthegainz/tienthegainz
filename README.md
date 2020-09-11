@@ -2,7 +2,7 @@
 
 First of all, thank you for spending your precious time to visit my [github](https://github.com/tienthegainz) :relieved:
 
-I'm an undergraduate IT student who enthusiated with technologies.
+I'm an undergraduate IT student who enthusiated about technologies.
 
 ## Some of my notable repository:
 - [Workflow management webapp in Laravel](https://github.com/tienthegainz/workflow_management_php_laravel) :office:.
