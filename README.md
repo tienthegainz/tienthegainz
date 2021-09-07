@@ -1,11 +1,11 @@
 # Welcome to my profile :penguin:
 
-First of all, thank you for spending your precious time to visit my [github](https://github.com/tienthegainz) :relieved:
+Thank you for spending your precious time to visit my [github](https://github.com/tienthegainz) :relieved:
 
-I'm an undergraduate IT student who enthusiated about technologies.
+I'm a tech geek. I am also a full-time software engineer. I do some open-source projects for fun outside intensive working hours and post them here.
 
-## Some of my notable repository:
-- [Workflow management webapp in Laravel](https://github.com/tienthegainz/workflow_management_php_laravel) :office:.
+## Some of my recent 4fun projects:
+- [Product recognition and tracking system on edge device](https://github.com/tienthegainz/OutOfStockSystem) (*Publishing a journal about this as well*) :sunglasses:.
 - [Face for rice](https://github.com/tienthegainz/Face_for_Rice) :rice:. *Here is my [blog](https://viblo.asia/p/he-thong-phat-gao-nhan-dien-khuon-matphan-2-gDVK2JkjKLj) about this project, inspired by my country COVID 19 free rice remote station*.
 - [Image captioning using AI](https://github.com/tienthegainz/ImageAutoCaptioning) :robot:.
 
